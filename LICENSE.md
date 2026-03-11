@@ -1,8 +1,8 @@
 FLUX-OS PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
-Version: 1.0
-Date: MARCH 11, 2026
-Licensors: Oliver Lebaigue
+Version: 1.0  
+Date: MARCH 11, 2026  
+Licensors: Oliver Lebaigue  
 
 1. PREAMBLE
 
