@@ -5,7 +5,7 @@ Here is the **FLUX-OS Proprietary Software License Agreement**, formatted for re
 # FLUX-OS PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
 **Version:** 1.0  
-**Date:** MARCH 11, 2026  
+**Date:** MARCH 19, 2026  
 **Licensors:** Oliver Lebaigue
 
 ---
