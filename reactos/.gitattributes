@@ -1,0 +1,74 @@
+* text=auto
+
+*.acf text
+*.asm text
+*.c text
+*.cc text
+*.cmake text
+*.cpp text
+*.cxx text
+*.h text
+*.hpp text
+*.hxx text
+*.idl text
+*.inc text
+*.inl text
+*.klc text
+*.l text
+*.lds text
+*.md text
+*.rc text
+*.s text
+*.S text
+*.sfd text
+*.spec text
+*.svg text
+*.txt text
+*.TXT text
+*.y text
+
+*.sh text eol=lf
+
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.exp text eol=crlf
+*.hhc text eol=crlf
+*.hhp text eol=crlf
+*.ini text eol=crlf
+*.INI text eol=crlf
+*.inf text eol=crlf
+*.inf.tpl text eol=crlf
+*.js text eol=crlf
+*.manifest text eol=crlf
+*.mc text eol=crlf
+*.mof text eol=crlf
+*.rgs text eol=crlf
+*.sif text eol=crlf
+*.vbs text eol=crlf
+*.vcxproj text eol=crlf
+*.xml text eol=crlf
+
+*.avi binary
+*.bin binary
+*.bmf binary
+*.bmp binary
+*.BMP binary
+*.chm binary
+*.cur binary
+*.dll binary
+*.emf binary
+*.gif binary
+*.ico binary
+*.jpg binary
+*.mp3 binary
+*.nls binary
+*.otf binary
+*.pdn binary
+*.pfb binary
+*.pfm binary
+*.png binary
+*.psd binary
+*.ttc binary
+*.ttf binary
+*.wav binary
+*.xcf binary
