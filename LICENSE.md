@@ -1,7 +1,3 @@
-Here is the **FLUX-OS Proprietary Software License Agreement**, formatted for readability and presentation.
-
-***
-
 # FLUX-OS PROPRIETARY SOFTWARE LICENSE AGREEMENT
 
 **Version:** 1.0  
